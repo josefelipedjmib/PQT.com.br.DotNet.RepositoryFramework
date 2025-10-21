@@ -1,4 +1,4 @@
-# Projeto Domain
+# Projeto RepositoryFramework
   ## Utilizado para compatibilidade de projetos legados em DotNet C# Framework com Medium Trust
   ### Características gerais da tecnologia utilizada
 - Dot Net Framework 4.x.x
